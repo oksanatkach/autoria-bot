@@ -1,3 +1,4 @@
+# coding=utf-8
 from collections import namedtuple
 from config import config
 import datetime

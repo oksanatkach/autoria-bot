@@ -1,3 +1,4 @@
+# coding=utf-8
 from car_info import get_car_info
 from config import config
 import telebot
